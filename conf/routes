@@ -12,10 +12,10 @@ GET		/aboutus								Application.aboutus
 GET     /ts                                     Application.ts
 
 #Product Backstage
-GET     /backstage                              Backstage.MainBackstage.index
-GET     /prodlist/{prodCategory}/{beauty_desc}  Backstage.Product.prodlist
-GET     /productupload                          Backstage.Product.productupload
-POST    /submitPRODUCT                          Backstage.Product.submitPRODUCT
+#GET     /backstage                              Backstage.MainBackstage.index
+#GET     /prodlist/{prodCategory}/{beauty_desc}  Backstage.Product.prodlist
+#GET     /productupload                          Backstage.Product.productupload
+#POST    /submitPRODUCT                          Backstage.Product.submitPRODUCT
 
 
 

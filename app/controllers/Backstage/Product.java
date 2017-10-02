@@ -1,3 +1,4 @@
+/*
 package controllers.Backstage;
 
 
@@ -10,9 +11,11 @@ import java.io.*;
 import java.io.IOException;
 import java.util.List;
 
+*/
 /**
  * Created by PB6N0071 on 9/13/2017.
- */
+ *//*
+
 public class Product extends MainBackstage {
 
     public static void prodlist(String productCategory, String productCategory_beauty) {
@@ -89,3 +92,4 @@ public class Product extends MainBackstage {
 
 }
 
+*/
